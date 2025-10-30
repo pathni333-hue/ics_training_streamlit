@@ -1,0 +1,7 @@
+streamlit>=1.20
+pandas
+networkx
+plotly
+matplotlib
+numpy
+python-dateutil
